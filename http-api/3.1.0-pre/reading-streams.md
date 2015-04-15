@@ -25,6 +25,7 @@ Being listed or not listed here by no means shows our official support for any o
 | Python      | [http://code.google.com/p/feedparser/](http://code.google.com/p/feedparser/)                         |
 | node.js     | [https://github.com/danmactough/node-feedparser](https://github.com/danmactough/node-feedparser)     |
 | Objective C | [https://geekli.st/darvin/repos/MWFeedParser](https://geekli.st/darvin/repos/MWFeedParser)           |
+| Ruby        | [https://github.com/arkency/http_eventstore](https://github.com/arkency/http_eventstore)             |
 
 <span class="note">
 Feel free to add more!
